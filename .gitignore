@@ -1,3 +1,7 @@
+keys
+snapshoot*
+extra-accounts.txt
+test-ledger
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
